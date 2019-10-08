@@ -17,4 +17,4 @@ The application was publised using [GitHub Pages](https://pages.github.com/).
 
 Here is link to view the application:
 
-[Sushil G 3D Image Flip Effect](https://susgupta.github.io/3d_flip_gallery/index.html)
+[Sushil G 3D Image Flip Effect](https://susgupta.github.io/3d_flip_gallery/)
